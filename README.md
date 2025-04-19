@@ -4,7 +4,7 @@
 - 📌 Agnieszka Maleszka
 - 📌 Bartosz Kozłowski
   
-System regułowy wspierający wybór idealnego prezentu na podstawie preferencji użytkownika. Wykorzystuje **CLIPS** jako silnik regułowy oraz **Pythona** jako interfejs użytkownika i warstwę integracyjną.
+System regułowy wspierający wybór idealnego prezentu na podstawie preferencji użytkownika. Wykorzystuje **CLIPS** jako silnik regułowy oraz **Pythona** jako interfejs użytkownika.
 
 ---
 
